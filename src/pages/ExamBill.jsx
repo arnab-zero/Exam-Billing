@@ -1,13 +1,13 @@
 import BillBody from "../components/BillBody";
 import BillHeading from "../components/BillHeading";
 
-const ExamBillForm = () => {
+const ExamBill = () => {
   return (
     <div>
       <BillHeading />
-      <BillBody/>
+      <BillBody />
     </div>
   );
 };
 
-export default ExamBillForm;
+export default ExamBill;
