@@ -1,3 +1,6 @@
+import React from 'react';
+import "../bengali-font.css";
+
 const BillBody = () => {
   return (
     <div>
@@ -22,7 +25,7 @@ const BillBody = () => {
       </p>
 
       <section className="grid grid-cols-12 gap-4">
-        <div className="col-span-10">
+        <div className="bengaliFont text-sm col-span-10">
           <p>(১) প্রশ্নপত্র প্রণয়নঃ</p>
           <p className="ml-4">(ক) একটি পূর্ণ/অর্ধপত্র ............ পরীক্ষার ............ বিষয় ............ পত্র/ কোর্স</p>
           <p className="ml-4">(খ) " " " " ............ " ............ " ............ "</p>
