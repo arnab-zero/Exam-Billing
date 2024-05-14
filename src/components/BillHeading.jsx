@@ -2,7 +2,7 @@ import "../bengali-font.css";
 
 const BillHeading = () => {
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-center my-5">
       <div>
         <div className="flex justify-center mb-2">
           <img
