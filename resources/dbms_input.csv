@@ -1,0 +1,16 @@
+শিক্ষকের নাম,পদবী  ,প্রশ্নের ধরন,প্রশ্নের বিষয়,প্রশ্নপত্রের পরীক্ষা ,প্রশ্নপত্রের পত্র/কোর্স কোড,উত্তরপত্র মূল্যায়ন,যে পরীক্ষার উত্তরপত্র,উত্তরপত্রের পত্র/কোর্স কোড,ফাইনালের খাতা দেখা হয়েছে কতটি,মিডের খাতা দেখা হয়েছে কতটি,সেমিস্টারে কোর্স সংখ্যা,উত্তরপত্র নিরীক্ষা কতটি,নিরীক্ষিত পরীক্ষার নাম,ফলাফল সমন্বয়ের কোর্স কোড,এসাইনমেন্ট দেখা হয়েছে কতটি,SPL এ সুপারভাইজ করা হয়েছে কতজনকে,SPL রিপোর্ট চেক করা হয়েছে কতটি,থিসিসে সুপারভাইজ করা হয়েছে কতজনকে,থিসিস রিপোর্ট চেক করা হইছে কতটি,পরীক্ষা কমিটির চেয়ারম্যান ছিলো
+Rahim,Lecturer,BSC(Half),SE,1st year 1st semester,CSE-411,MSC(Full),1st year 1st semester,CSE-101,1,1,4,5,1st Year 1st Semester,CSE-101,3,4,6,3,5,Yes
+Karim,Associate Professor,BSC(Half),,1st year 1st semester,STAT-103,,1st year 1st semester,,2,2,,,,,,,,3,,No
+Abdul,Assistant Professor,BSC(Full),,1st year 1st semester,STAT-103,,1st year 1st semester,,3,3,,,,,,,,3,,No
+Jabbar,Professor,MSC(Full),,1st year 1st semester,CSE -201,,1st year 1st semester,,4,4,,,,,,,,3,,No
+Manik,Professor,MSC(Half),,1st year 1st semester,STAT-103,,1st year 1st semester,,5,5,,,,,,,,3,,No
+Rauf,Associate Professor,MSC(Half),,1st year 1st semester,CSE -211,,1st year 1st semester,,6,6,,,,,,,,3,,No
+Habib,Associate Professor,,,1st year 1st semester,STAT-203,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Lecturer,,,1st year 1st semester,MATH-204,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Lecturer,,,1st year 1st semester,CSE-404,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Associate Professor,,,1st year 1st semester,CSE-604 ,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Associate Professor,,,1st year 1st semester,CSE-601,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Professor,,,1st year 1st semester,MATH-304,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Lecturer,,,1st year 1st semester,CSE-101,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Assistant Professor,,,1st year 1st semester,CSE-842,,1st year 1st semester,,,,,,,,,,,3,,No
+Habib,Professor,BSC(Full),,1st year 1st semester,GE-105,,1st year 1st semester,,,,,,,,,,,3,,No
